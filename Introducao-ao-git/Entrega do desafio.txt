@@ -1,0 +1,5 @@
+Arquivo de confirmação do desafio de Git e GitHub.
+- criar repositório.
+- Clonar repositório.
+- Fazer commit.
+- Realizar push (versionar).
